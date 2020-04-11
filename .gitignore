@@ -357,6 +357,6 @@ MigrationBackup/
 .ionide/
 
 
-.vcproj
-.vcproj.filters
-.sln
+*.vcxproj
+*.vcxproj.filters
+*.sln
