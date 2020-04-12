@@ -12,6 +12,8 @@
 * [Code Forces](https://github.com/mrmanago/coding_challenges#Code-Forces)
 
 
+--- 
+
 ### Array
 |  #  | Problem         |  Solution       |  Time           |  Space          |  Difficulty   |
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |
