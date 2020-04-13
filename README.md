@@ -8,6 +8,11 @@
 
 * [Array](https://github.com/mrmanago/coding_challenges#array)
 
+## [Hacker Rank](https://www.hackerrank.com/)
+
+* [30 Days of Code](https://github.com/mrmanago/coding_challenges#30-days-of-code)
+
+
 ## Misc
 * [Code Forces](https://github.com/mrmanago/coding_challenges#Code-Forces)
 
@@ -24,9 +29,9 @@
 ### [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 | Day | Problem         |  Solution       |  Difficulty   |
 |-----|---------------- | --------------- | ------------- |
-0 | [Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) | [1st](.HackerRank/30-hello-world.cpp) | Easy |
-1 | [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | [1st](.HackerRank/30-data-types.cpp) | Easy |
-2 | [Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [1st](.HackerRank/30-operators.cpp) | Easy |
+0 | [Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) | [1st](./HackerRank/30-hello-world.cpp) | Easy |
+1 | [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | [1st](./HackerRank/30-data-types.cpp) | Easy |
+2 | [Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [1st](./HackerRank/30-operators.cpp) | Easy |
 
 ---
 
