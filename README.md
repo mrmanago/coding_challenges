@@ -15,7 +15,7 @@
 
 ## [Learn to Think Like a Programmer](https://nostarch.com/thinklikeaprogrammer)
 
-* [Chapter 2. Pure Puzzles](https://github.com/mrmanago/coding_challenges#chapter-2.-pure-puzzles)
+* [Chapter 2. Pure Puzzles](https://github.com/mrmanago/coding_challenges#chapter-2-pure-puzzles)
 
 
 ## Misc
