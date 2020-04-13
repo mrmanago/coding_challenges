@@ -1,3 +1,4 @@
+
 # C++ Coding Challenges
 
 * A collection of challenges and exercises written in C++.
@@ -12,6 +13,10 @@
 
 * [30 Days of Code](https://github.com/mrmanago/coding_challenges#30-days-of-code)
 
+## [Learn to Think Like a Programmer](https://nostarch.com/thinklikeaprogrammer)
+
+* [Chapter 2. Pure Puzzles](https://github.com/mrmanago/coding_challenges#chapter-2.-pure-puzzles)
+
 
 ## Misc
 * [Code Forces](https://github.com/mrmanago/coding_challenges#Code-Forces)
@@ -23,16 +28,23 @@
 |  #  | Problem         |  Solution       |  Time           |  Space          |  Difficulty   |
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |
 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [1st](./LeetCode/find_pivot_index.cpp) | _O(n)_ | _O(1)_ | Easy |
-0747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [1st](./LeetCode/largest-number-at-least-twice-of-others.cpp) | _O(n)_ | _O(1)_ | Easy |
+0747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest_number_at_least_twice_of_others/) | [1st](./LeetCode/largest-number-at-least-twice-of-others.cpp) | _O(n)_ | _O(1)_ | Easy |
 
 ---
 
 ### [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 | Day | Problem         |  Solution       |  Difficulty   |
 |-----|---------------- | --------------- | ------------- |
-0 | [Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) | [1st](./HackerRank/30-hello-world.cpp) | Easy |
-1 | [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | [1st](./HackerRank/30-data-types.cpp) | Easy |
-2 | [Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [1st](./HackerRank/30-operators.cpp) | Easy |
+0 | [Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) | [1st](./HackerRank/30_hello_world.cpp) | Easy |
+1 | [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | [1st](./HackerRank/30_data_types.cpp) | Easy |
+2 | [Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [1st](./HackerRank/30_operators.cpp) | Easy |
+
+---
+
+### Chapter 2. Pure Puzzles
+| Problem         |  Solution       |
+|---------------- | --------------- |
+Half of a Square | [1st](./ThinkLikeAProgrammer/ch2/half_of_a_square.cpp) |
 
 ---
 
