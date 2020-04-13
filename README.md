@@ -23,6 +23,7 @@
 |  #  | Problem         |  Solution       |  Time           |  Space          |  Difficulty   |
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |
 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [1st](./LeetCode/find_pivot_index.cpp) | _O(n)_ | _O(1)_ | Easy |
+0747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [1st](./LeetCode/largest-number-at-least-twice-of-others.cpp | _O(n)_ | _O(1)_ | Easy |
 
 ---
 
