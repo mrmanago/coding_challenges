@@ -27,6 +27,7 @@
 ### Array
 |  #  | Problem         |  Solution       |  Time           |  Space          |  Difficulty   |
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |
+0066 | [Plus One](https://leetcode.com/problems/plus-one/) | [1st](./LeetCode/plus_one.cpp) | _O(n)_ | _O(1)_ | Easy |
 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [1st](./LeetCode/find_pivot_index.cpp) | _O(n)_ | _O(1)_ | Easy |
 0747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest_number_at_least_twice_of_others/) | [1st](./LeetCode/largest-number-at-least-twice-of-others.cpp) | _O(n)_ | _O(1)_ | Easy |
 
