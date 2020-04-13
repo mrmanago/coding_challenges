@@ -13,7 +13,7 @@
 
 * [30 Days of Code](https://github.com/mrmanago/coding_challenges#30-days-of-code)
 
-## [Learn to Think Like a Programmer](https://nostarch.com/thinklikeaprogrammer)
+## [Think Like a Programmer](https://nostarch.com/thinklikeaprogrammer)
 
 * [Chapter 2. Pure Puzzles](https://github.com/mrmanago/coding_challenges#chapter-2-pure-puzzles)
 
