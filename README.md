@@ -42,6 +42,7 @@
 
 ### 30-Day LeetCoding Challenge
 | Day | Problem         |  Solution       |  Time           |  Space          |
+|-----|---------------- | --------------- | --------------- | --------------- |
 14 | [Perform String Shifts](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/) | [1st](./LeetCode/perform_string_shifts.cpp) |  |  |
 
 ---
