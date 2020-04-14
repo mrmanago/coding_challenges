@@ -10,6 +10,9 @@
 * [Array](https://github.com/mrmanago/coding_challenges#array)
 * [String](https://github.com/mrmanago/coding_challenges#string)
 
+### Challenges
+* [30-Day Leet Coding Challenge](https://github.com/mrmanago/coding_challenges#30-day-leetcoding-challenge)
+
 ## [Hacker Rank](https://www.hackerrank.com/)
 
 * [30 Days of Code](https://github.com/mrmanago/coding_challenges#30-days-of-code)
@@ -36,6 +39,10 @@
 |  #  | Problem         |  Solution       |  Time           |  Space          |  Difficulty   |
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |
 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [1st](./LeetCode/defanging_an_ip_address.cpp) | _O(n)_ | _O(1)_ | Easy |
+
+### 30-Day LeetCoding Challenge
+| Day | Problem         |  Solution       |  Time           |  Space          |
+14 | [Perform String Shifts](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/) | [1st](./LeetCode/perform_string_shifts.cpp) |  |  |
 
 ---
 
