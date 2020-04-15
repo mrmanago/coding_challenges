@@ -51,10 +51,11 @@
 ### [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 | Day | Problem         |  Solution       |  Difficulty   |
 |-----|---------------- | --------------- | ------------- |
-0 | [Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) | [1st](./HackerRank/30_hello_world.cpp) | Easy |
-1 | [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | [1st](./HackerRank/30_data_types.cpp) | Easy |
-2 | [Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [1st](./HackerRank/30_operators.cpp) | Easy |
+0 | [Hello, World.](https://www.hackerrank.com/challenges/30-hello-world) | [1st](./HackerRank/30_hello_world.cpp) | Easy |
+1 | [Data Types](https://www.hackerrank.com/challenges/30-data-types | [1st](./HackerRank/30_data_types.cpp) | Easy |
+2 | [Operators](https://www.hackerrank.com/challenges/30-operators) | [1st](./HackerRank/30_operators.cpp) | Easy |
 3 | [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements) | [1st](./HackerRank/30_intro_to_conditional_statements) | Easy |
+4 | [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance) | [1st](./HackerRank/30_class_vs_instance.cpp) | Easy |
 
 ---
 
