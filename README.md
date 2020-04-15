@@ -11,7 +11,7 @@
 * [String](https://github.com/mrmanago/coding_challenges#string)
 
 ### Challenges
-* [30-Day Leet Coding Challenge](https://github.com/mrmanago/coding_challenges#30-day-leetcoding-challenge)
+* [30-Day LeetCoding Challenge](https://github.com/mrmanago/coding_challenges#30-day-leetcoding-challenge)
 
 ## [Hacker Rank](https://www.hackerrank.com/)
 
@@ -32,6 +32,7 @@
 |  #  | Problem         |  Solution       |  Time           |  Space          |  Difficulty   |
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |
 0066 | [Plus One](https://leetcode.com/problems/plus-one/) | [1st](./LeetCode/plus_one.cpp) | _O(n)_ | _O(1)_ | Easy |
+0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [1st](./LeetCode/product_of_array_except_self.cpp) | _O(n)_ | _O(1)_ | Medium |
 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [1st](./LeetCode/find_pivot_index.cpp) | _O(n)_ | _O(1)_ | Easy |
 0747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest_number_at_least_twice_of_others/) | [1st](./LeetCode/largest-number-at-least-twice-of-others.cpp) | _O(n)_ | _O(1)_ | Easy |
 
@@ -43,7 +44,7 @@
 ### 30-Day LeetCoding Challenge
 | Day | Problem         |  Solution       |  Time           |  Space          |
 |-----|---------------- | --------------- | --------------- | --------------- |
-14 | [Perform String Shifts](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/) | [1st](./LeetCode/perform_string_shifts.cpp) |  |  |
+14 | [Perform String Shifts](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/) | [1st](./LeetCode/perform_string_shifts.cpp) |||
 
 ---
 

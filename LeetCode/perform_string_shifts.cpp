@@ -37,7 +37,6 @@ string stringShift(string s, vector<vector<int>>& shift) {
     } 
 
     string result = "";
-
     if (v > 0) {
         result = s.substr(length - v, v) + s.substr(0, length - v);
     } else {
