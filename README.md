@@ -45,6 +45,7 @@
 | Day | Problem         |  Solution       |  Time           |  Space          |
 |-----|---------------- | --------------- | --------------- | --------------- |
 14 | [Perform String Shifts](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/) | [1st](./LeetCode/perform_string_shifts.cpp) |||
+15 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [1st](./LeetCode/defanging_an_ip_address.cpp) | _O(n)_ | _O(1)_ |
 
 ---
 
@@ -56,6 +57,7 @@
 2 | [Operators](https://www.hackerrank.com/challenges/30-operators) | [1st](./HackerRank/30_operators.cpp) | Easy |
 3 | [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements) | [1st](./HackerRank/30_intro_to_conditional_statements) | Easy |
 4 | [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance) | [1st](./HackerRank/30_class_vs_instance.cpp) | Easy |
+5 | [Loops](https://www.hackerrank.com/challenges/30-loops/) | [1st](./HackerRank/30_loops.cpp) | Easy |
 
 ---
 
