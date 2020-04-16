@@ -45,7 +45,7 @@
 | Day | Problem         |  Solution       |  Time           |  Space          |
 |-----|---------------- | --------------- | --------------- | --------------- |
 14 | [Perform String Shifts](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/) | [1st](./LeetCode/perform_string_shifts.cpp) |||
-15 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [1st](./LeetCode/defanging_an_ip_address.cpp) | _O(n)_ | _O(1)_ |
+15 | [Product of Array Except Self](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3300/) | [1st](./LeetCode/product_of_array_except_self.cpp) |||
 
 ---
 
