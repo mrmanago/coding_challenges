@@ -9,6 +9,7 @@
 
 * [Array](https://github.com/mrmanago/coding_challenges#array)
 * [String](https://github.com/mrmanago/coding_challenges#string)
+* [Dynamic Programming](https://github.com/mrmanago/coding_challenges#dynamic-programming)
 
 ### Challenges
 * [30-Day LeetCoding Challenge](https://github.com/mrmanago/coding_challenges#30-day-leetcoding-challenge)
@@ -41,11 +42,17 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |
 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [1st](./LeetCode/defanging_an_ip_address.cpp) | _O(n)_ | _O(1)_ | Easy |
 
+### Dynamic Programming
+|  #  | Problem         |  Solution       |  Time           |  Space          |  Difficulty   |
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |
+0064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [1st](./LeetCode/minimum_path_sum.cpp) | _O(m * n)_ | _O(m + n)_ | Medium |
+
 ### 30-Day LeetCoding Challenge
 | Day | Problem         |  Solution       |  Time           |  Space          |
 |-----|---------------- | --------------- | --------------- | --------------- |
 14 | [Perform String Shifts](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/) | [1st](./LeetCode/perform_string_shifts.cpp) |||
 15 | [Product of Array Except Self](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3300/) | [1st](./LeetCode/product_of_array_except_self.cpp) |||
+16 | [Minimum Path Sum](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3303/) | [1st](./LeetCode/minimum_path_sum.cpp) | _O(m * n)_ | _O(m + n)_ |
 
 ---
 
