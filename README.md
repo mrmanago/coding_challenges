@@ -36,6 +36,8 @@
 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [1st](./LeetCode/product_of_array_except_self.cpp) | _O(n)_ | _O(1)_ | Medium |
 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [1st](./LeetCode/find_pivot_index.cpp) | _O(n)_ | _O(1)_ | Easy |
 0747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest_number_at_least_twice_of_others/) | [1st](./LeetCode/largest-number-at-least-twice-of-others.cpp) | _O(n)_ | _O(1)_ | Easy |
+1413 | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/contest/biweekly-contest-24/problems/minimum-value-to-get-positive-step-by-step-sum/) | [1st](./LeetCode/minimum_value_to_get_positive_step_by_step_sum.cpp) | _O(n)_ | _O(1)_ | Easy |
+1414 | [Find the Minimum Number of Fibonacci Numbers Whose Sum is K](https://leetcode.com/contest/biweekly-contest-24/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | [1st](./LeetCode/find_the_minimum_number_of_fibonacci_numbers_whose_sum_is_k.cpp) | _O(n)_ | _O(1)_ | Medium |
 
 ### String
 |  #  | Problem         |  Solution       |  Time           |  Space          |  Difficulty   |
