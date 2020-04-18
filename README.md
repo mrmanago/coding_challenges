@@ -59,6 +59,7 @@
 4 | [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance) | [1st](./HackerRank/30_class_vs_instance.cpp) | Easy |
 5 | [Loops](https://www.hackerrank.com/challenges/30-loops/) | [1st](./HackerRank/30_loops.cpp) | Easy |
 6 | [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/) | [1st](./HackerRank/30_review_loop.cpp) | Easy |
+7 | [Arrays](https://www.hackerrank.com/challenges/30-arrays/) | [1st](./HackerRank/30_arrays.cpp) | Easy |
 
 ---
 
