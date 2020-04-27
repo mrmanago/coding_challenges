@@ -69,6 +69,7 @@
 5 | [Loops](https://www.hackerrank.com/challenges/30-loops/) | [1st](./HackerRank/30_loops.cpp) | Easy |
 6 | [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/) | [1st](./HackerRank/30_review_loop.cpp) | Easy |
 7 | [Arrays](https://www.hackerrank.com/challenges/30-arrays/) | [1st](./HackerRank/30_arrays.cpp) | Easy |
+8 | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [1st](./HackerRank/30_dictionaries_and_maps.cpp) | Easy |
 
 ---
 
