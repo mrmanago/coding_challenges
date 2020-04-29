@@ -71,7 +71,8 @@
 7 | [Arrays](https://www.hackerrank.com/challenges/30-arrays/) | [1st](./HackerRank/30_arrays.cpp) | Easy |
 8 | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/) | [1st](./HackerRank/30_dictionaries_and_maps.cpp) | Easy |
 9 | [Recusion](https://www.hackerrank.com/challenges/30-recursion/) | [1st](./HackerRank/30_recursion.cpp) | Easy |
-10 | [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/) [1st](./HackerRank/30_binary_numbers.cpp) | Easy |
+10 | [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/) | [1st](./HackerRank/30_binary_numbers.cpp) | Easy |
+11 | [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/) | [1st](./HackerRank/30_2d_arrays.cpp) | Easy |
 
 ---
 
