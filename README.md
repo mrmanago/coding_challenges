@@ -8,6 +8,7 @@
 ### Algorithms
 
 * [Array](https://github.com/mrmanago/coding_challenges#array)
+* [Binary Search](https://github.com/mrmanago/coding_challenges#binary-search)
 * [String](https://github.com/mrmanago/coding_challenges#string)
 * [Dynamic Programming](https://github.com/mrmanago/coding_challenges#dynamic-programming)
 
@@ -39,6 +40,11 @@
 1413 | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/contest/biweekly-contest-24/problems/minimum-value-to-get-positive-step-by-step-sum/) | [1st](./LeetCode/minimum_value_to_get_positive_step_by_step_sum.cpp) | _O(n)_ | _O(1)_ | Easy |
 1414 | [Find the Minimum Number of Fibonacci Numbers Whose Sum is K](https://leetcode.com/contest/biweekly-contest-24/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | [1st](./LeetCode/find_the_minimum_number_of_fibonacci_numbers_whose_sum_is_k.cpp) | _O(n)_ | _O(1)_ | Medium |
 
+### Binary Search
+|  #  | Problem         |  Solution       |  Time           |  Space          |  Difficulty   |
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |
+0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [1st](./LeetCode/first_bad_version.cpp) | _O(logn)_ | _O(1)_ | Easy |
+
 ### String
 |  #  | Problem         |  Solution       |  Time           |  Space          |  Difficulty   |
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |
@@ -49,16 +55,21 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |
 0064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [1st](./LeetCode/minimum_path_sum.cpp) | _O(m * n)_ | _O(m + n)_ | Medium |
 
-### 30-Day LeetCoding Challenge
+### 30-Day LeetCoding Challenge (April)
 | Day | Problem         |  Solution       |  Time           |  Space          |
 |-----|---------------- | --------------- | --------------- | --------------- |
 14 | [Perform String Shifts](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/) | [1st](./LeetCode/perform_string_shifts.cpp) |||
 15 | [Product of Array Except Self](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3300/) | [1st](./LeetCode/product_of_array_except_self.cpp) |||
 16 | [Minimum Path Sum](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3303/) | [1st](./LeetCode/minimum_path_sum.cpp) | _O(m * n)_ | _O(m + n)_ |
 
+### 30-Day LeetCoding Challenge (May)
+| Day | Problem         |  Solution       |  Time           |  Space          |
+|-----|---------------- | --------------- | --------------- | --------------- |
+1 | [First Bad Version](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/) | [1st](./LeetCode/first_bad_version.cpp) | _O(logn)_ | _O(1)_ | Easy |
+
 ---
 
-### [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+### [30 Days of Code)](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 | Day | Problem         |  Solution       |  Difficulty   |
 |-----|---------------- | --------------- | ------------- |
 0 | [Hello, World.](https://www.hackerrank.com/challenges/30-hello-world) | [1st](./HackerRank/30_hello_world.cpp) | Easy |
