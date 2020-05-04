@@ -11,9 +11,11 @@
 * [Binary Search](https://github.com/mrmanago/coding_challenges#binary-search)
 * [String](https://github.com/mrmanago/coding_challenges#string)
 * [Dynamic Programming](https://github.com/mrmanago/coding_challenges#dynamic-programming)
+* [Hash Table](https://github.com/mrmanago/coding_challenges#hash-table)
 
 ### Challenges
-* [30-Day LeetCoding Challenge](https://github.com/mrmanago/coding_challenges#30-day-leetcoding-challenge)
+* [30-Day LeetCoding Challenge April](https://github.com/mrmanago/coding_challenges#30-day-leetcoding-challenge-april)
+* [30-Day LeetCoding Challenge May](https://github.com/mrmanago/coding_challenges#30-day-leetcoding-challenge-may)
 
 ## [Hacker Rank](https://www.hackerrank.com/)
 
@@ -48,12 +50,18 @@
 ### String
 |  #  | Problem         |  Solution       |  Time           |  Space          |  Difficulty   |
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |
+0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) [C++](./LeetCode/ransom_note.cpp) | _O(n+m)_ | _O(n)_ | Easy |
 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [1st](./LeetCode/defanging_an_ip_address.cpp) | _O(n)_ | _O(1)_ | Easy |
 
 ### Dynamic Programming
 |  #  | Problem         |  Solution       |  Time           |  Space          |  Difficulty   |
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |
 0064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [1st](./LeetCode/minimum_path_sum.cpp) | _O(m * n)_ | _O(m + n)_ | Medium |
+
+### Hash Table
+|  #  | Problem         |  Solution       |  Time           |  Space          |  Difficulty   |
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |
+0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [1st](./LeetCode/jewels_and_stones.cpp) | _O(n^2)_ | _O(1)_ | Easy |
 
 ### 30-Day LeetCoding Challenge (April)
 | Day | Problem         |  Solution       |  Time           |  Space          |
@@ -66,10 +74,13 @@
 | Day | Problem         |  Solution       |  Time           |  Space          |
 |-----|---------------- | --------------- | --------------- | --------------- |
 1 | [First Bad Version](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/) | [1st](./LeetCode/first_bad_version.cpp) | _O(logn)_ | _O(1)_ | Easy |
+2 | [Jewels and Stones](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/) | [1st](./LeetCode/jewels_and_stones.cpp) | _O(nm)_ | _O(1)_ | Easy |
+3 | [Ransom Note](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3318/) [C++](./LeetCode/ransom_note.cpp) | _O(n+m)_ | _O(n)_ | Easy |
+
 
 ---
 
-### [30 Days of Code)](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+### [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 | Day | Problem         |  Solution       |  Difficulty   |
 |-----|---------------- | --------------- | ------------- |
 0 | [Hello, World.](https://www.hackerrank.com/challenges/30-hello-world) | [1st](./HackerRank/30_hello_world.cpp) | Easy |
