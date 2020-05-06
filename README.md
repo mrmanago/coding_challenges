@@ -9,6 +9,7 @@
 
 * [Array](https://github.com/mrmanago/coding_challenges#array)
 * [Binary Search](https://github.com/mrmanago/coding_challenges#binary-search)
+* [Bit Manipulation](https://github.com/mrmanago/coding_challenges#bit-manipulation)
 * [String](https://github.com/mrmanago/coding_challenges#string)
 * [Dynamic Programming](https://github.com/mrmanago/coding_challenges#dynamic-programming)
 * [Hash Table](https://github.com/mrmanago/coding_challenges#hash-table)
@@ -47,6 +48,11 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |
 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [1st](./LeetCode/first_bad_version.cpp) | _O(logn)_ | _O(1)_ | Easy |
 
+### Bit Manipulation
+|  #  | Problem         |  Solution       |  Time           |  Space          |  Difficulty   |
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |
+0476 | [Number Complement](https://leetcode.com/problems/number-complement/) | [C++](./LeetCode/number_complement.cpp) | _O(n)_ | _O(n)_ |
+
 ### String
 |  #  | Problem         |  Solution       |  Time           |  Space          |  Difficulty   |
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |
@@ -61,6 +67,7 @@
 ### Hash Table
 |  #  | Problem         |  Solution       |  Time           |  Space          |  Difficulty   |
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |
+0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [C++](./LeetCode/first_unique_character_in_a_string.cpp) | _O(n)_ | _O(1)_ |
 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [1st](./LeetCode/jewels_and_stones.cpp) | _O(n^2)_ | _O(1)_ | Easy |
 
 ### 30-Day LeetCoding Challenge (April)
@@ -73,9 +80,11 @@
 ### 30-Day LeetCoding Challenge (May)
 | Day | Problem         |  Solution       |  Time           |  Space          |
 |-----|---------------- | --------------- | --------------- | --------------- |
-1 | [First Bad Version](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/) | [1st](./LeetCode/first_bad_version.cpp) | _O(logn)_ | _O(1)_ | Easy |
-2 | [Jewels and Stones](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/) | [1st](./LeetCode/jewels_and_stones.cpp) | _O(nm)_ | _O(1)_ | Easy |
-3 | [Ransom Note](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3318/) [C++](./LeetCode/ransom_note.cpp) | _O(n+m)_ | _O(n)_ | Easy |
+1 | [First Bad Version](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/) | [1st](./LeetCode/first_bad_version.cpp) | _O(logn)_ | _O(1)_ |
+2 | [Jewels and Stones](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/) | [1st](./LeetCode/jewels_and_stones.cpp) | _O(nm)_ | _O(1)_ |
+3 | [Ransom Note](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3318/) [C++](./LeetCode/ransom_note.cpp) | _O(n+m)_ | _O(n)_ | 
+4 | [Number Complement](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/) | [C++](./LeetCode/number_complement.cpp) | _O(n)_ | _O(n)_ | 
+5 | [First Unique Character in a String](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/) | [C++](./LeetCode/first_unique_character_in_a_string.cpp) | _O(n)_ | _O(1)_ |
 
 
 ---
