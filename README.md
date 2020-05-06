@@ -37,6 +37,7 @@
 |  #  | Problem         |  Solution       |  Time           |  Space          |  Difficulty   |
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |
 0066 | [Plus One](https://leetcode.com/problems/plus-one/) | [1st](./LeetCode/plus_one.cpp) | _O(n)_ | _O(1)_ | Easy |
+0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./LeetCode/majority_element.cpp) | _O(n)_ | _O(1)_ | Easy |
 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [1st](./LeetCode/product_of_array_except_self.cpp) | _O(n)_ | _O(1)_ | Medium |
 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [1st](./LeetCode/find_pivot_index.cpp) | _O(n)_ | _O(1)_ | Easy |
 0747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest_number_at_least_twice_of_others/) | [1st](./LeetCode/largest-number-at-least-twice-of-others.cpp) | _O(n)_ | _O(1)_ | Easy |
@@ -85,6 +86,7 @@
 3 | [Ransom Note](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3318/) [C++](./LeetCode/ransom_note.cpp) | _O(n+m)_ | _O(n)_ | 
 4 | [Number Complement](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/) | [C++](./LeetCode/number_complement.cpp) | _O(n)_ | _O(n)_ | 
 5 | [First Unique Character in a String](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/) | [C++](./LeetCode/first_unique_character_in_a_string.cpp) | _O(n)_ | _O(1)_ |
+6 | [Majority Element](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/) | [C++](./LeetCode/majority_element.cpp) | _O(n)_ | _O(1)_ |
 
 
 ---
